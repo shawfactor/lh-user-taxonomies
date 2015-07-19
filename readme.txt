@@ -55,6 +55,14 @@ This is heavily inspired by previous work by [Justin Tadlock](http://justintadlo
 *Properly supports the capabilities associated with the taxonomy when registered.
 *Supports 'show_admin_column' attribute when registering the taxonomy in the same way as post taxonomies.
 
+Check out [our documentation][docs] for more information on how to register user taxonomies. 
+
+All tickets for the project are being tracked on [GitHub][].
+
+
+[docs]: http://lhero.org/plugins/lh-user-taxonomies/
+[GitHub]: https://github.com/shawfactor/lh-user-taxonomies
+
 
 == Installation ==
 
@@ -67,4 +75,7 @@ This is heavily inspired by previous work by [Justin Tadlock](http://justintadlo
 
 **1.0 February 28, 2015**  
 * Initial release
+
+**1.2 July 15, 2015**  
+* Code improvments
 
