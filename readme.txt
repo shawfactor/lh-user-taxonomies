@@ -77,5 +77,8 @@ All tickets for the project are being tracked on [GitHub][].
 * Initial release
 
 **1.2 July 15, 2015**  
-* Code improvments
+* Code improvements
+
+**1.3 July 17, 2015**  
+* Documentation links
 
