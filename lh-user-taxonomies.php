@@ -438,7 +438,7 @@ $ids = array_intersect($ids, $new_ids);
 
 }
 
-if ($ids){  
+if ( isset( $ids ) ){  
 
 $ids = implode(',', wp_parse_id_list( $ids ) );
 
